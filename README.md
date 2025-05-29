@@ -29,7 +29,7 @@ This version (Tarpee/lasercut v.1.0 beta) is an open source version of the tarpe
 
 **APPRPOPRIATE USE**
 
-* Please read Paul Chiyokten Wagner’s [cultural history letter](https://github.com/jkim5/tarpee/blob/main/cultural_history_letter.md) about the appropriate use of the tarpee.
+* Please read Paul Chiyokten Wagner’s [cultural history letter](https://github.com/usfmedia/tarpee/blob/main/cultural_history_letter.md) about the appropriate use of the tarpee.
 * We continue to work on defining appropriate uses of the tarpee. These are subject to change. A few protocols regarding the appropriate use of a tarpee:
   * Though not a tipi, the tarpee draws inspiration from conical tent structures that are sacred to communities around the world. The tarpee recognizes and honors this cultural heritage.
   * Tarpees were designed for environmental and social actions in settings with Indigenous leadership and/or movements that foreground Indigenous beliefs, ideas and/or practices.
