@@ -2,5 +2,3 @@ The "cut files" folder contain files for lasercutting metal parts for tarpee fab
 
 The "design files" folder will contain files for re-designing the metal parts. Available upon request.
 
-Please contact hello_john@protonmail.com with any additional questions or concerns.
-
