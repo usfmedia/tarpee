@@ -11,7 +11,6 @@ The tarpee is an Indigenous-led design adaptation of a conical tent structure fo
 - "Fabrication" folder contains links to assembly instructions, videos, and diagrams.
 - "Files" folder contains cut and design files for metal parts.
 
-Please reach out to hello_john@protonmail.com with any questions or concerns.
 
 **OVERVIEW**
 
